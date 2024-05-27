@@ -12,8 +12,8 @@ Output: [4, 33, 42, 65, 2, 0, 0, 0, 0, 0]
 ```
 <br>
 
-```
-Q2. Shift all the ZERO's element to the end (right side) of the Array without changing the element
+```diff
+- Q2. Shift all the ZERO's element to the end (right side) of the Array without changing the element
 sequence.
 ```
 
