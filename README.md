@@ -13,11 +13,13 @@ Output: [4, 33, 42, 65, 2, 0, 0, 0, 0, 0]
 <br>
 
 ```
-Q2. Shift all the ZERO's element to the end (right side) of the Array without changing the element sequence.
+Q2. Shift all the ZERO's element to the end (right side) of the Array without changing the element
+sequence.
 ```
 
 ```
-Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row shorted in assending order. you have to find the target element in the 2D array.
+Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row shorted
+in assending order. you have to find the target element in the 2D array.
 ```
 <br>
 
