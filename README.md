@@ -4,6 +4,11 @@
 
 ```
 Q1. Shift all the ZERO's to the end of the Array.
+
+Example 1:
+
+Input: nums = [0, 33, 42, 0, 2, 0, 0, 65, 4, 0]
+Output: [4, 33, 42, 65, 2, 0, 0, 0, 0, 0]
 ```
 <br>
 
