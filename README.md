@@ -7,12 +7,12 @@
 + text in green
 ! text in orange
 # text in gray
-@ text in purple (and bold)@
+@@ text in purple (and bold)@@
 ```
 
-```css
+```diff
 Q1. Shift all the ZERO's to the end of the Array.
-`Example 1:`
+- Example 1:
 
 Input: nums = [0, 33, 42, 0, 2, 0, 0, 65, 4, 0]
 Output: [4, 33, 42, 65, 2, 0, 0, 0, 0, 0]
@@ -41,12 +41,12 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
 
 You must write an algorithm that runs in O(n) time and without using the division operation.
 
-# Example 1:
+` Example 1: `
 
 Input: nums = [1,2,3,4]
 Output: [24,12,8,6]
 
-@@Example 2:@@
+@@ Example 2:@@
 
 Input: nums = [-1,1,0,-3,3]
 Output: [0,0,9,0,0]
