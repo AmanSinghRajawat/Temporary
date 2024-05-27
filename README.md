@@ -3,14 +3,6 @@
 ## 1. Coding Problems <br>
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-```diff
 Q1. Shift all the ZERO's to the end of the Array.
 
 + Example 1:
@@ -33,7 +25,7 @@ shorted in assending order. you have to find the target element in the 2D array.
 <br>
 
 ```diff
-@@ Q4. Product of Array Except Self. @@
+Q4. Product of Array Except Self.
 
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of
 all the elements of nums except nums[i].
