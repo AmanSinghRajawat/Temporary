@@ -48,5 +48,5 @@ Output: [0,0,9,0,0]
 ## 2. SQL Queries <br>
 
 ```diff
-Q1. Print the ***Second Highest Salary*** of Employees in Each Department.
+Q1. Print the @@ Second Highest Salary @@ of Employees in Each Department.
 ```
