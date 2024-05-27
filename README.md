@@ -18,8 +18,8 @@ sequence.
 ```
 
 ```
-Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row shorted
-in assending order. you have to find the target element in the 2D array.
+Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row
+shorted in assending order. you have to find the target element in the 2D array.
 ```
 <br>
 
