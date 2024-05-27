@@ -4,9 +4,9 @@
 
 ```
 Q1. Shift all the ZERO's to the end of the Array.
-
-Example 1:
-
+```
+#### Example 1:
+```
 Input: nums = [0, 33, 42, 0, 2, 0, 0, 65, 4, 0]
 Output: [4, 33, 42, 65, 2, 0, 0, 0, 0, 0]
 ```
@@ -17,13 +17,15 @@ Q2. Shift all the ZERO's element to the end (right side) of the Array without ch
 sequence.
 ```
 
-`Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row
-shorted in assending order. you have to find the target element in the 2D array.`
+```
+Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row
+shorted in assending order. you have to find the target element in the 2D array.
+```
 
 <br>
 
 ```
-`Q4. Product of Array Except Self.`
+Q4. Product of Array Except Self.
 
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of
 all the elements of nums except nums[i].
