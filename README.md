@@ -24,7 +24,8 @@ Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Arr
 ```
 Q4. Product of Array Except Self.
 
-Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+Given an integer array nums, return an array answer such that answer[i] is equal to the product of
+all the elements of nums except nums[i].
 
 The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
 
