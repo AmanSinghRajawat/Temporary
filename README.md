@@ -11,7 +11,7 @@
 ```
 
 ```css
-! Q1. Shift all the ZERO's to the end of the Array.
+Q1. Shift all the ZERO's to the end of the Array.
 `Example 1:`
 
 Input: nums = [0, 33, 42, 0, 2, 0, 0, 65, 4, 0]
@@ -31,7 +31,7 @@ shorted in assending order. you have to find the target element in the 2D array.
 
 <br>
 
-```Deprecated
+```deprecated
 @@Q4. Product of Array Except Self.@@
 
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of
