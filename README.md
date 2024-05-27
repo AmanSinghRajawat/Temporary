@@ -6,7 +6,10 @@
 
 - > Q2. Shift all the ZERO's element to the end (right side) of the Array without changing the element sequence.<br>
 
-- Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row shorted in assending order. you have to find the target element in the 2D array. <br>
+```
+Q3. You are given a 2D Array (Matrix) and a integer variable target. in a 2D Array Each row shorted in assending order. you have to find the target element in the 2D array.
+```
+<br>
 
 - ##### Q4. Product of Array Except Self.
 ```
